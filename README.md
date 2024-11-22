@@ -37,7 +37,8 @@ conda activate supervised_learning
 
 ## 3. Directory Structure
 
-├── data
+├── data  
+<br>
 │   ├── default_of_credit_card_clients.csv
 │   └── phishing_dataset.csv
 ├── images
