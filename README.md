@@ -117,3 +117,6 @@ navigate to the respective directory to view them
 ## 4. References
 - https://www.kaggle.com/datasets/akashkr/phishing-website-dataset/data
 - https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
+
+## Disclaimer
+This code repository and all its contents are the intellectual property of the owner and are protected under applicable copyright laws. Unauthorized copying, distribution, or reproduction of any part of this repository, whether in whole or in part, is strictly prohibited. This includes, but is not limited to, duplicating, sharing, or deriving works without explicit written consent from the owner. By accessing this repository, you agree to respect these terms and refrain from any actions that violate intellectual property rights.
