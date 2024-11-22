@@ -1,4 +1,4 @@
-# CS7641 - Assignment 1 - Supervised Learning
+# Supervised Learning
 
 ## About this Project
 This is a supervised learning project that uses 3 algorithms on two classification problems.
@@ -12,8 +12,6 @@ experiment in its entirety.
 
 Scikit-learn (python3) is used to evaluate the algorithms.
 
-Overleaf read only project can be found here: https://www.overleaf.com/read/pymxdstpbykz#58567d
-
 ## How to run this project
 ## 1. Prereqs
 - Python3
@@ -22,8 +20,6 @@ Overleaf read only project can be found here: https://www.overleaf.com/read/pymx
 - jupyter notebook
 - 
 ## 1. Setting up environment
-- Download the code repository using the box link https://gatech.box.com/s/hieeun4bjtynw9a7fhyryyhrukxxooop
-- You will need to unzip the
 - The data can be found here so no need to download it externally
 - Navigate to the `supervised-learning` directory using `cd supervised-learning`
 - Install conda (refer to https://conda.io/projects/conda/en/latest/user-guide/install/index.html for instructions)
