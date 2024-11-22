@@ -40,30 +40,55 @@ conda activate supervised_learning
 ├── data  
 <br>
 │   ├── default_of_credit_card_clients.csv
+<br>
 │   └── phishing_dataset.csv
+<br>
 ├── images
+<br>
     ├── credit-knn
+<br>
     ├── credit-nn
+<br>
     ├── credit-svm
+<br>
     ├── phishing-knn
+<br>
     ├── phishing-nn
+<br>
     └── phishing-svm
+<br>
 ├── notebooks
+<br>
     ├── default-credit-payment-KNN.ipynb
+<br>
     ├── default-credit-payment-NN.ipynb
+<br>
     ├── default-credit-payment-SVM.ipynb
+<br>
     ├── phishing-KNN.ipynb
+<br>
     ├── phishing-NN.ipynb
+<br>
     └── phishing-SVM.ipynb
+<br>
 ├── results
+<br>
     ├── credit-knn
+<br>
     ├── credit-nn
+<br>
     ├── credit-svm
+<br>
     ├── phishing-knn
+<br>
     ├── phishing-nn
+<br>
     └── phishing-svm
+<br>
 ├── environment.yml
+<br>
 ├── README.md
+<br>
 
 - data: holds the datasets
 - images: holds 6 directories (1 for each algorithm per dataset) containing images/plots from the perspective notebook
